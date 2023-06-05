@@ -49,21 +49,15 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/e6f77e6c-9924-4520-8ca9-51cfbde868fc)
-
-![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/aa0e2793-63a2-435b-ae34-e607f899281e)
-
-![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/d18bf07d-ff35-490f-af2c-4a634aff1bb4)
-
-![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/a6593c8f-3bdc-4dea-95cf-3e8426917900)
-
-![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/56346244-26d9-4ee5-8d73-f385d90cd1c6)
+![image](https://github.com/Augustine0306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119404460/941111ca-c358-4d3f-b198-ce1d3b2434f1)
+![image](https://github.com/Augustine0306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119404460/bf87ffa9-7f42-45d0-bbe9-4106973fe30e)
+![image](https://github.com/Augustine0306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119404460/f3da6160-5d00-489a-a872-572cab54da72)
+![image](https://github.com/Augustine0306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119404460/9c32d9f0-3b68-457c-8942-859156cbcc83)
+![image](https://github.com/Augustine0306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119404460/d49ee8ba-3bf4-40a2-a4c3-b163a5e4c5ff)
 
 
 ## Output:
-
-![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/475427c1-1211-4613-bab3-dac36f1b52e6)
-
+![image](https://github.com/Augustine0306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119404460/3e08d7bb-db55-450f-b05c-afa338fea3f4)
 
 ### Name: AUGUSTINE J
 ### Register Number:212222240015
